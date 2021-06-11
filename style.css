@@ -1,0 +1,22 @@
+body {
+    background-color: bisque;
+    
+}
+
+.small{
+    background-color: dodgerblue;
+    width:1150px;
+    height:250px;
+    padding:100px;
+    display:flex;
+    gap:5px;
+   align-items:center;
+   justify-content:center;
+   flex-direction:column;
+}
+.child{
+    background-color: fuchsia;
+    height:200px;
+    width:200px;
+}
+
